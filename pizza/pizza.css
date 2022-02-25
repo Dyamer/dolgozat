@@ -3,5 +3,6 @@
     border-radius: 20px;
 }
 body{
-    
+    background-image: url(hatter.jpg);
+    background-attachment: fixed;
 }
